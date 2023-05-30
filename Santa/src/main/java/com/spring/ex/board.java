@@ -1,6 +1,6 @@
 package com.spring.ex;
 
 public class board {
-	//°øÁö»çÇ× µî
-	
+	//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½
+	//MS949
 }
