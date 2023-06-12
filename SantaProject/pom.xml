@@ -192,11 +192,6 @@
 		</dependency>
 		<!-- //로컬 웹서버 연동 -->
 		
-		<!-- 테스트 -->
-		<dependency>
-		</dependency>
-		<!-- //테스트 -->
-		
 	</dependencies>
     <build>
         <plugins>
